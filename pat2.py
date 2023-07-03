@@ -6,6 +6,6 @@ i=0
 while True:
     pencolor(colors[i%6])
     fd(10+i)
-    lt(85)
+    lt(140)
     i+= 1
 mainloop()
